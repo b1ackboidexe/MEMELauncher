@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="512px" src="assets/tomKira.png">
+  <img width="512px" src="tomKira.png">
 </p>
 
 # MEMELauncher
