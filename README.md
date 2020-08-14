@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="512px" src="KonoDioDa.png">
+  <img width="512px" src="pepesweat.png">
 </p>
 
 # MEMELauncher
