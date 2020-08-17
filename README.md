@@ -5,5 +5,5 @@
 # MEMELauncher
 
 The best Minecraft Launcher in 2020
-| [Download for all platform](https://github.com/trieu2007/MEMELauncher/blob/master/Install.exe) |
+| [Download for all platform](https://github.com/trieu2007/MEMELauncher/raw/master/MEMELauncher.zip) |
 |-----------|
