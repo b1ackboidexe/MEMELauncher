@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="512px" src="pepesweat.png">
+  <img width="512px" src="github-assets\pepesweat.png">
 </p>
 
 # MEMELauncher
